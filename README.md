@@ -17,10 +17,11 @@ TraceX is a Python-based tool for performing OSINT lookups. It allows you to sea
 ## Installation
 
 
-Install the required dependencies:
+1. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
+   Thats all !
 
 ## Requirements
 

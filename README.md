@@ -7,26 +7,17 @@ TraceX is a Python-based tool for performing OSINT lookups. It allows you to sea
 
 ## Features
 
-- **Phone Number Lookup**: Retrieve public information associated with a phone number.
-- **Email Lookup**: Search for information tied to an email address, such as associated social media accounts and services.
-- **Discord Lookup**: Verify the presence of an individual on Discord and collect related data.
-- **Instagram Lookup**: Retrieve publicly available data from an Instagram profile.
-- **Facebook Lookup**: Collect public information from a Facebook profile.
+- **Phone Number Lookup**: Collect information associated with a phone number.
+- **Email Lookup**: Collect information from an email address.
+- **Discord Lookup**: Collect data on a Discord Account.
+- **Instagram Lookup**: Collect data from an Instagram profile.
+- **Facebook Lookup**: Collect information from a Facebook profile.
 - **IP Lookup**: Obtain some details about an IP address.
 
 ## Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/noneed2know18/TraceX.git
-    ```
-   
-2. Navigate to the project directory:
-    ```bash
-    cd (name)
-    ```
 
-3. Install the required dependencies:
+Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```

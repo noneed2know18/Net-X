@@ -21,7 +21,6 @@ TraceX is a Python-based tool for performing OSINT lookups. It allows you to sea
     ```bash
     pip install -r requirements.txt
     ```
-   Thats all !
 
 ## Requirements
 

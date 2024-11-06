@@ -2,7 +2,7 @@
 
 TraceX is a Python-based tool for performing OSINT lookups. It allows you to search for publicly available information related to phone numbers, email addresses, Discord, Instagram, Facebook accounts, and IP addresses. This tool is designed for cybersecurity researchers, investigators, and anyone interested in gathering publicly available data.
 
-![Image](./n2kxjonny.jpg)
+![Image](./tool-image.png)
 
 
 ## Features
@@ -35,3 +35,6 @@ TraceX is a Python-based tool for performing OSINT lookups. It allows you to sea
 
 - Python 3.x
 - Dependencies listed in `requirements.txt`
+
+
+![Image](./n2kxjonny.jpg)
